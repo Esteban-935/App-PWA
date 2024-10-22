@@ -1,0 +1,16 @@
+{
+    "name": "CRUD",
+    "short_name": "CRUD",
+    "description": "Un CRUD básico",
+    "start_url": "pages/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "icon/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
